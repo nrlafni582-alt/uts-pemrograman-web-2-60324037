@@ -19,6 +19,7 @@ Aplikasi CRUD kategori perpustakaan menggunakan PHP dan MySQL dengan fitur:
 
 ## Struktur Folder
 - config/
+- database/
 - index.php
 - create.php
 - edit.php
